@@ -2,3 +2,5 @@ print("Hello World")
 This is git
 HEAD is a kind of pointer, pointing to the version you are
 working at.
+Concepts of git: version control, branching
+Start modifying on branch
